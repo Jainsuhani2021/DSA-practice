@@ -6,5 +6,5 @@ using namespace std;
 int shellSort(int arr[], int n);
 int shellSort(int arr[], int n);
 int shellSort(int arr[], int n);;;;;;;;;;
-int shellSort(int arr[], int n);;;;;;;;;;;;;;
+int shellSort(int arr[], int n);;;;;;;;;;;;;;;;
 int shellSort(int arr[], int n);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
